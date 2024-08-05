@@ -7,7 +7,7 @@
 - Vários cursos em Digital Innovation One ♦️
 
 ## Alguns projetos desenvolvidos ainda inacabados
-https://github.com/LKT067/dioProjeto.git
-https://github.com/LKT067/ProjetoPythonDIO.git
+https://github.com/LKT067/dioProjeto.git <br>
+https://github.com/LKT067/ProjetoPythonDIO.git <br>
 https://github.com/LKT067/ProjetoDIOlogica.git
 
