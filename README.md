@@ -1,6 +1,5 @@
 ## Olá Hubzinho 👋
 # ___Meu nome é Lucas___ 
-![Lagartixa Roxa](image.png)
 <img src="image.png" width="500" height="200">
 
 ## Atualmente estudante em:
