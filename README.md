@@ -16,5 +16,5 @@
 #### Conforme me desenvolvo nos cursos em questão ocorrerá o aprimoramento desses projetos e o desenvolvimento de outros.
 
 ## Minhas Redes de Comunicação:
-- https://www.linkedin.com/in/lucas-nardi/
+- https://github.com/LKT067
 
