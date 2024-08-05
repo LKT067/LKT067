@@ -15,7 +15,7 @@
 - https://github.com/LKT067/ProjetoDIOlogica.git <br>
 #### Conforme me desenvolvo nos cursos em questão ocorrerá o aprimoramento desses projetos e o desenvolvimento de outros.
 
-## Minhas Redes de Comunicação:
+## Perfis:
 - https://github.com/LKT067
 - https://www.dio.me/users/lucashncmendes
 
