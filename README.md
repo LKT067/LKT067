@@ -6,8 +6,9 @@
 - Tecnologia da Informação na UFMS ♥️ 
 - Vários cursos em Digital Innovation One ♦️
 
-## Alguns projetos desenvolvidos ainda inacabados
+## Alguns projetos desenvolvidos, por enquanto inacabados.
 https://github.com/LKT067/dioProjeto.git <br>
 https://github.com/LKT067/ProjetoPythonDIO.git <br>
-https://github.com/LKT067/ProjetoDIOlogica.git
+https://github.com/LKT067/ProjetoDIOlogica.git <br>
+## Conforme me desenvolvo nos cursos em questão ocorrerá o aprimoramento desses projetos.
 
