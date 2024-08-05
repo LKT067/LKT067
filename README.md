@@ -17,4 +17,5 @@
 
 ## Minhas Redes de Comunicação:
 - https://github.com/LKT067
+- https://www.dio.me/users/lucashncmendes
 
