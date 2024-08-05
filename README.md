@@ -1,6 +1,6 @@
 ## Olá Hubinho 👋
 # ___Meu nome é Lucas___ 
-<img src="image.png" width="300" height="200">
+<center><img src="image.png" width="500" height="200"></center>
 <!--
 **LKT067/LKT067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
